@@ -9,7 +9,7 @@ import streamlit as st
 from domain_classifier import classify_domain, normalize_rows, parse_crawl_file
 
 
-st.set_page_config(page_title="Domain Categorizer", page_icon="🧭", layout="wide")
+st.set_page_config(page_title="Domain Categorizer", page_icon="D", layout="wide")
 
 
 def main() -> None:

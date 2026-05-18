@@ -74,5 +74,5 @@ streamlit run streamlit_app.py
 ## Test
 
 ```bash
-python -m unittest
+python3 -m unittest discover
 ```
